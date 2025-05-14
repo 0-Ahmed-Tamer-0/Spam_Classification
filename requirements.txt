@@ -1,0 +1,4 @@
+downloads
+GloVe: 		https://nlp.stanford.edu/data/glove.6B.zip
+word2vec:	https://drive.usercontent.google.com/download?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM&export=download&authuser=0 
+fastext:	https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing 
